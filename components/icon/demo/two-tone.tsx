@@ -5,8 +5,8 @@ import { Space } from 'antd';
 const App: React.FC = () => (
   <Space>
     <SmileTwoTone />
-    <HeartTwoTone twoToneColor="#eb2f96" />
-    <CheckCircleTwoTone twoToneColor="#52c41a" />
+    <HeartTwoTone twoToneColor="red" />
+    <CheckCircleTwoTone twoToneColor="red" />
   </Space>
 );
 
